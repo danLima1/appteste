@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "joca da silva",
+            "email": "joca@silva.com"
+        },
+        {
+            "id": "2",
+            "name": "cleuza da silva",
+            "email": "mari@cleuza.com"
+        }
+    ],
+    "comments": [
+        {
+            "id": "1",
+            "user": "1",
+            "text": "não estou entendendo nada"
+        },
+        {
+            "id":"2",
+            "user":"2",
+            "text":"também não estou entendendo nada"
+        }
+    ]
+}
