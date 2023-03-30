@@ -1,26 +1,42 @@
 {
-    "users": [
-        {
-            "id": "1",
-            "name": "joca da silva",
-            "email": "joca@silva.com"
-        },
-        {
-            "id": "2",
-            "name": "cleuza da silva",
-            "email": "mari@cleuza.com"
-        }
-    ],
-    "comments": [
-        {
-            "id": "1",
-            "user": "1",
-            "text": "não estou entendendo nada"
-        },
-        {
-            "id":"2",
-            "user":"2",
-            "text":"também não estou entendendo nada"
-        }
-    ]
+  "users": [
+    {
+      "id": "1",
+      "name": "Joca da Silva",
+      "email": "joca@silva.com",
+      "status": "inativo"
+    },
+    {
+      "id": "2",
+      "name": "Maricleuza Sirineuza",
+      "email": "mari@cleuza.com",
+      "status": "ativo"
+    },
+    {
+      "name": "ronaldinho queridão",
+      "email": "ronaldinho@gmail.com",
+      "status": "ativo",
+      "id": "5cpTRVv"
+    },
+    {
+      "name": "renata queridona",
+      "email": "renata@gmail.com",
+      "status": "ativo",
+      "id": "BmHBdua"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "from": "1",
+      "to": "2",
+      "text": "Não estou entendendo nada disso."
+    },
+    {
+      "id": "2",
+      "from": "2",
+      "to": "1",
+      "text": "Eu tamém num tendi nada!"
+    }
+  ]
 }
