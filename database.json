@@ -1,16 +1,10 @@
 {
   "users": [
     {
-      "id": "1",
-      "name": "Joca da Silva",
+      "name": "joca silva",
       "email": "joca@silva.com",
-      "status": "inativo"
-    },
-    {
-      "id": "2",
-      "name": "Maricleuza Sirineuza",
-      "email": "mari@cleuza.com",
-      "status": "ativo"
+      "status": "ativo",
+      "id": "1"
     },
     {
       "name": "ronaldinho queridão",
